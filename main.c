@@ -5,5 +5,10 @@ pseudo code
 		//Sample Code
 	}
 
+	Feature1()
+	{
+		//Sample Code
+	}
+
 
 }
